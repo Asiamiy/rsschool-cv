@@ -9,3 +9,10 @@ I'm 26. I work at McDonald's as a manager. I don't see self-development in this 
 * HTML - beginner
 * CSS - beginner
 * Git - beginner
+## Code example
+ ```
+ function sum(firstNumber, secondNumber) {
+    return firstNumber + secondNumber;
+ }
+ ```
+ 
