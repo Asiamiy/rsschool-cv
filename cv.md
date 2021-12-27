@@ -15,4 +15,7 @@ I'm 26. I work at McDonald's as a manager. I don't see self-development in this 
     return firstNumber + secondNumber;
  }
  ```
- 
+## Education 
+* Vitebsk State University of Technology (2012-2017)
+  + Faculty of Economics and Business Management
+  
