@@ -3,3 +3,5 @@
 * **Phone:** 8 029 666 66 66
 * **E-mail:** Ansamiy3573@mail.ru
 * **GitHub**: Asiamiy
+## About me
+I'm 26. I work at McDonald's as a manager. I don't see self-development in this work, therefore, on the advice of a wonderful person, I want to change it and try myself in the front-end development.
