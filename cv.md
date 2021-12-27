@@ -5,3 +5,7 @@
 * **GitHub**: Asiamiy
 ## About me
 I'm 26. I work at McDonald's as a manager. I don't see self-development in this work, therefore, on the advice of a wonderful person, I want to change it and try myself in the front-end development.
+## Skills
+* HTML - beginner
+* CSS - beginner
+* Git - beginner
