@@ -18,4 +18,5 @@ I'm 26. I work at McDonald's as a manager. I don't see self-development in this 
 ## Education 
 * Vitebsk State University of Technology (2012-2017)
   + Faculty of Economics and Business Management
-  
+## Languages 
+ * English A2+ (in progress...) 
