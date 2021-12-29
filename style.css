@@ -2,3 +2,28 @@ p {
     font-size: 25px;
     color: blue;
 }
+.items-wrapper {
+    display: flex;
+    justify-content: space-between;
+    font-size: x-large;
+    text-align: center;
+    text-decoration: underline;
+    color: black;
+}
+
+.nav-item {
+    text-decoration: none;
+    list-style-type: none;
+    border: 1px solid black;
+    background: thistle;
+    display: inline-block;
+    width: 200px;
+    height: 60px;
+}
+h1{
+    font-size: 50px;
+    color: rosybrown;
+    font-weight: 700 px;
+    text-align: center;
+    text-decoration: underline;
+}
